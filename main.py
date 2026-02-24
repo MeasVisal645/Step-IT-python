@@ -16,7 +16,6 @@
 # print(first)
 # print(middle)
 # print(last)
-from netaddr.strategy.eui48 import mac_unix
 
 
 # def get_user_name():
